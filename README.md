@@ -1,20 +1,11 @@
 ### Hi there! 👋  
-I'm Vansh Yadav — a Computer Science & Biosciences undergraduate at [@IIIT-Delhi](https://github.com/IIIT-Delhi), passionate about building impactful software, exploring machine learning, and working on research-driven projects.
+I'm Vansh Yadav — a Computer Science student at [@IIIT-Delhi](https://github.com/IIIT-Delhi), passionate about solving real-world problems through clean and purposeful code.
 
 🔍 Currently:  
 - Software Engineering Intern [@Google](https://github.com/google)  
 - UG Researcher [@CoSyLab-IIITD](https://github.com/cosylabiiit)
 
-🛠️ Working with: Python, C++, JavaScript, React Native, Flask, PyTorch, HuggingFace, and more.
-
-💡 Projects I’ve Built:
-- [HealthScribe3000](https://github.com/vansh22559/HealthScribe) — NLP pipeline for extracting and summarizing medical QA content  
-- [MoodQuest](https://github.com/vansh22559/MoodQuest) — Gamified mental wellness app using React Native & Vertex AI  
-- [HeritageHub](https://github.com/vansh22559/HeritageHub-Flask-MySQLApp) — Full-stack craft marketplace built with Flask & MySQL  
-- [StickHero](https://github.com/vansh22559/Stick-Hero) — JavaFX-based desktop game showcasing core OOP principles
-
 📫 Always open to collaborations, hackathons, and meaningful side-projects!
-
 ---
 
 ## 🧰 Languages & Tools
