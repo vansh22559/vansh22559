@@ -1,9 +1,5 @@
 ### Hi there! 👋  
-I'm Vansh Yadav — a Computer Science student at [@IIIT-Delhi](https://github.com/IIIT-Delhi), passionate about solving real-world problems through clean and purposeful code.
-
-🔍 Currently:  
-- Software Engineering Intern [@Google](https://github.com/google)  
-- UG Researcher [@CoSyLab-IIITD](https://github.com/cosylabiiit)
+I'm Vansh Yadav — a Computer Science student at [@IIIT-Delhi](https://github.com/IIIT-Delhi), passionate about solving real-world problems.
 
 📫 Always open to collaborations, hackathons, and meaningful side-projects!
 ---
