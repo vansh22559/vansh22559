@@ -1,7 +1,6 @@
 ### Hi there! 👋  
-I'm Vansh Yadav — a Computer Science student at [@IIIT-Delhi](https://github.com/IIIT-Delhi), passionate about solving real-world problems.
+I'm Vansh Yadav — CS undergrad at [@IIIT-Delhi](https://github.com/IIIT-Delhi), software enthusiast, and competitive programming lover.
 
-📫 Always open to collaborations, hackathons, and meaningful side-projects!
 ---
 
 ## 🧰 Languages & Tools
