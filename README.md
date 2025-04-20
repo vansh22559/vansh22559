@@ -1,16 +1,45 @@
-## Hi there 👋
+### Hi there! 👋  
+I'm Vansh Yadav — a Computer Science & Biosciences undergraduate at [@IIIT-Delhi](https://github.com/IIIT-Delhi), passionate about building impactful software, exploring machine learning, and working on research-driven projects.
 
-<!--
-**vansh22559/vansh22559** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 Currently:  
+- Software Engineering Intern [@Google](https://github.com/google)  
+- UG Researcher [@CoSyLab-IIITD](https://github.com/cosylabiiit)
 
-Here are some ideas to get you started:
+🛠️ Working with: Python, C++, JavaScript, React Native, Flask, PyTorch, HuggingFace, and more.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Projects I’ve Built:
+- [HealthScribe3000](https://github.com/vansh22559/HealthScribe) — NLP pipeline for extracting and summarizing medical QA content  
+- [MoodQuest](https://github.com/vansh22559/MoodQuest) — Gamified mental wellness app using React Native & Vertex AI  
+- [HeritageHub](https://github.com/vansh22559/HeritageHub-Flask-MySQLApp) — Full-stack craft marketplace built with Flask & MySQL  
+- [StickHero](https://github.com/vansh22559/Stick-Hero) — JavaFX-based desktop game showcasing core OOP principles
+
+📫 Always open to collaborations, hackathons, and meaningful side-projects!
+
+---
+
+## 🧰 Languages & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cpp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
+![React Native](https://img.shields.io/badge/react%20native-20232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Flask](https://img.shields.io/badge/flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/HuggingFace-FFD21F.svg?style=for-the-badge&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SpaCy](https://img.shields.io/badge/spaCy-09A3D5.svg?style=for-the-badge&logo=spacy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+![Git](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+
+---
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vansh22559&theme=tokyonight&hide_border=true)
